@@ -12,7 +12,7 @@ Here's a glimpse of my tech arsenal:
 
 - **Tools:** TensorFlow, Natural Language Processing (NLP) libraries, YouTube API, Data Visualization, AWS, Oracle Database, Variational Autoencoders, MIDI
 
-## What I'm Currently Hacking On 💻
+## What I'm Currently Working On 💻
 
 I'm currently digging into:
 
