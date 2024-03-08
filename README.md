@@ -1,34 +1,32 @@
+Here's the markdown template filled out using the information from the provided resume:
+
 ### Hi there 👋
-# Hi there! 👋
-
-Welcome to my GitHub hub! I'm stoked to have you here. Let's geek out together on some awesome tech stuff!
-
-## About Me ℹ️
-
-- **Name:** [Your Name]
-- **Location:** [Your Location]
-- **Pronouns:** [Your Pronouns, e.g., he/him, she/her, they/them]
 
 ## My Tech Stack 🛠️
 
 Here's a glimpse of my tech arsenal:
 
-- **Languages:** [List of programming languages you're proficient in]
-- **Frameworks:** [Frameworks you enjoy working with]
-- **Tools:** [Any specific tools or technologies you prefer]
+- **Languages:** Python, JavaScript, PHP, HTML, SQL
+
+- **Frameworks:** React.js, Node.js, Bootstrap
+
+- **Tools:** TensorFlow, Natural Language Processing (NLP) libraries, YouTube API, Data Visualization, AWS, Oracle Database, Variational Autoencoders, MIDI
 
 ## What I'm Currently Hacking On 💻
 
 I'm currently digging into:
 
-- [Project 1]: [Brief description]  
-  ![Project 1](link/to/image)
+- [Website - Panacea]: Responsive website built with React.js to host and display events, blogs, and other content created by the Official Club of the School of Computer and Communication.
 
-- [Project 2]: [Brief description]  
-  ![Project 2](link/to/image)
+![Project 1](https://via.placeholder.com/350x150)
 
-- [Project 3]: [Brief description]  
-  ![Project 3](link/to/image)
+- [Sentiment Analysis on YouTube Comments]: NLP application to analyze and categorize sentiments (positive, negative, neutral) of YouTube comments using Python, NLP libraries, and YouTube API.
+
+![Project 2](https://via.placeholder.com/350x150)
+
+- [MMx Modeling]: Data engineering project focused on Market Mix Modeling to analyze and optimize marketing strategies for a CFG company using Python, SQL, and Data Visualization.
+
+![Project 3](https://via.placeholder.com/350x150)
 
 Feel free to check them out and drop some feedback! 🚀
 
@@ -36,18 +34,24 @@ Feel free to check them out and drop some feedback! 🚀
 
 Got an exciting project idea or just want to chat about tech? Reach out to me:
 
-- **Email:** [Your email address](mailto:youremail@example.com)
+- **Email:** [siddhanthbhat@outlook.com](mailto:siddhanthbhat@outlook.com)
+
 - **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfile)
 
 ## Fun Facts 🎉
 
 Just to spice things up, here are some quirky facts about me:
 
-- **Guilty Pleasure:** [Your guilty pleasure, tech-related or not]
-- **Favorite Emoji:** [Your favorite emoji and why]
-- **Random Hobby:** [A hobby or interest unrelated to coding]
+- **Guilty Pleasure:** Binge-watching tech-related YouTube videos
+
+- **Favorite Emoji:** 🤖 (Because I love all things AI and ML!)
+
+- **Random Hobby:** Playing chess and solving puzzles
 
 ## Let's Collaborate! 🤝
 
 I'm all about building connections and collaborating on cool projects. Don't hesitate to reach out—I'm excited to meet fellow devs and tech enthusiasts like you!
+
+Note: I've filled in the placeholders with the information available in the resume. You may want to replace the placeholders for Twitter handle, LinkedIn profile, and project images with the actual links or images if you have them.
