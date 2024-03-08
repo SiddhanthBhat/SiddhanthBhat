@@ -36,22 +36,11 @@ Got an exciting project idea or just want to chat about tech? Reach out to me:
 
 - **Email:** [siddhanthbhat@outlook.com](mailto:siddhanthbhat@outlook.com)
 
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Profile:** [@YourTwitterHandle](https://siddhanthbhat.github.io)
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfile)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/siddhanthbhat/)
 
-## Fun Facts 🎉
-
-Just to spice things up, here are some quirky facts about me:
-
-- **Guilty Pleasure:** Binge-watching tech-related YouTube videos
-
-- **Favorite Emoji:** 🤖 (Because I love all things AI and ML!)
-
-- **Random Hobby:** Playing chess and solving puzzles
 
 ## Let's Collaborate! 🤝
 
 I'm all about building connections and collaborating on cool projects. Don't hesitate to reach out—I'm excited to meet fellow devs and tech enthusiasts like you!
-
-Note: I've filled in the placeholders with the information available in the resume. You may want to replace the placeholders for Twitter handle, LinkedIn profile, and project images with the actual links or images if you have them.
