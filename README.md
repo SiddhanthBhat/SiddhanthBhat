@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-## My Tech Stack 🛠️
-
-Here's a glimpse of my tech arsenal:
-
-- **Languages:** Python, JavaScript, PHP, HTML, SQL
-
-- **Frameworks:** React.js, Node.js, Bootstrap
-
-- **Tools:** TensorFlow, Natural Language Processing (NLP) libraries, YouTube API, Data Visualization, AWS, Oracle Database, Variational Autoencoders, MIDI
-
 ## Let's Collaborate! 🤝
 
 I'm all about building connections and collaborating on cool projects. Don't hesitate to reach out—I'm excited to meet fellow devs and tech enthusiasts like you!
