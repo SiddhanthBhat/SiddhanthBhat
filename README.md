@@ -10,7 +10,7 @@ Got an exciting project idea or just want to chat about tech? Reach out to me:
 
 - **Email:** [siddhanthbhat@outlook.com](mailto:siddhanthbhat@outlook.com)
 
-- **Profile:** [My Profile](https://siddhanthbhat.github.io)
+- **Profile:** [My Profile](https://siddhanthbhat.online)
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/siddhanthbhat/)
 
